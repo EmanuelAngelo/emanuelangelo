@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Emanuel Angelo</h1>
-<h3 align="center">Olá, sou formado na turma 2020.1 em Sistemas de Informação pela UNDB (Centro Universitário Dom Bosco), estou no momento fazendo Mestrado Profissional em Engenharia da Computação comecei na UEMA sendo aluno Especial (Universidade Estadual do Maranhão) cursando uma Especialização em Engenharia de Software pela Faculdade Dom Alberto EAD. Minha trilha de trabalho sempre foi na area de Tecnologia da Informação, trabalhando como Tecnico de Informatica, estou trilhando novo caminho e focando em Desenvolvimento de Sistemas na parte de Backend e Mobile.</h3>
+<h3 align="center">Olá, sou formado na turma 2020.1 em Sistemas de Informação pela UNDB (Centro Universitário Dom Bosco), estou no momento fazendo Mestrado Profissional em Engenharia da Computação comecei na UEMA sendo aluno Especial (Universidade Estadual do Maranhão) cursando uma Especialização em Engenharia de Software pela Faculdade Dom Alberto EAD. Minha trilha de trabalho sempre foi na area de Tecnologia da Informação, trabalhando como Tecnico de Informatica, estou trilhando novo caminho e focando em Desenvolvimento de Sistemas na parte de Backend, Frontend e Mobile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelangelo&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelangelo" /> </p>
 
