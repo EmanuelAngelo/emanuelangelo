@@ -5,24 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelangelo&theme=radical" alt="emanuelangelo" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [no Novosga2.0](atendimento.undb.edu.br)
-
-- 🌱 Atualmente estou aprendendo **Vuejs, Vuetify, Java**
-
-- 👯 Estou procurando colaborar em **projetos Python ou Django**
-
-- 🤝 Estou procurando ajuda com **projetos Vuejs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EmanuelAngelo?tab=repositories](https://github.com/EmanuelAngelo?tab=repositories)
-
-- 📝 Eu regularmente escrevo artigos sobre [tecnologias e desenvolvimento](tecnologias e desenvolvimento)
-
-- 💬 Pergunte-me sobre **Python**
-
-- 📫 Como me encontrar **emanuelangelo@outlook.com.br**
-
-- 📄 Conheça minhas experiências [Na area de infraestrutura de redes, help desk e agora em Desenvolvimento FullStack Web](Na area de infraestrutura de redes, help desk e agora em Desenvolvimento FullStack Web)
-
 - ⚡ Fato engraçado **escrevo poemas no dia-a-dia**
 
 <h3 align="left">Connect with me:</h3>
