@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/emanuelangelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuelangelo" height="30" width="40" /></a>
 <a href="https://fb.com/emanuel.angelo.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emanuel.angelo.148" height="30" width="40" /></a>
-<a href="https://instagram.com/emanuel_.angelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuel_.angelo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emanuel ruthusky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emanuel ruthusky" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devemanuelangelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuel_.angelo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNPrvWhqFa_gOuRkPGOS6WA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emanuel ruthusky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
