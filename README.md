@@ -1,23 +1,39 @@
-<h1 align="center">Oi 👋, Eu sou Emanuel Angelo</h1>
-<h3 align="center">Olá, sou formado na turma 2020.1 em Sistemas de Informação pela UNDB (Centro Universitário Dom Bosco), estou no momento fazendo Mestrado Profissional em Engenharia da Computação comecei na UEMA sendo aluno Especial (Universidade Estadual do Maranhão) cursando uma Especialização em Engenharia de Software pela Faculdade Dom Alberto EAD. Minha trilha de trabalho sempre foi na area de Tecnologia da Informação, trabalhando como Tecnico de Informatica, estou trilhando novo caminho e focando em Desenvolvimento de Sistemas na parte de Backend, Frontend e Mobile.</h3>
+<img src="https://images.pexels.com/photos/15175074/pexels-photo-15175074.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelangelo&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelangelo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelangelo&theme=radical" alt="emanuelangelo" /></a> </p>
-
-- ⚡ Fato engraçado **escrevo poemas no dia-a-dia**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emanuelangelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuelangelo" height="30" width="40" /></a>
-<a href="https://fb.com/emanuel.angelo.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emanuel.angelo.148" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devemanuelangelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuel_.angelo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNPrvWhqFa_gOuRkPGOS6WA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emanuel ruthusky" height="30" width="40" /></a>
+<p align="justify"> 
+  Olá, sou Emanuel. Sou formado em <strong>Sistemas de Informação</strong>.<br>
+  Trabalho atualmente como Desenvolvedor Web FullStack, gosto bastante da área, estou sempre em aprendizado constante e aprimorando meus conhecimentos.<br>
+  Hoje estudo pela Alura aonde venho fazendo algumas formações para FrontEdn e BackEnd e assim me capacitando cada dia mais.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="left">
+  🦄 Linguagens: <strong>Go Lang, Python, Java, JavaScript, TypeScript</strong>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelangelo&show_icons=true&locale=en&layout=compact&theme=radical" alt="emanuelangelo" /></p>
+<p align="left">
+  📚 Banco de dados: <strong>SQL Server, PostgreSql</strong>
 
+<p align="left">
+  💼 Ferramentas: <strong>Django, Vuejs, Reactjs, Protobuf</strong>
+</p>
 
+<p align="left">
+  💌 Em caso de querer entrar em contato, segue as redes que utilizo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=emanuel.angelo16@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/emanuelangelo/)" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080620125161"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/devemanuelangelo/"/></a>
+</p>  
