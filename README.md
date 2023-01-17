@@ -21,7 +21,7 @@ class Skills extends Desenvolvedor {
 </p>
 
 <p align="left">
-  <a href="#" alt="Outlook">
+  <a href="emanuelangelo@outlook.com.br" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=emanuel.angelo16@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/emanuelangelo/" alt="Linkedin">
