@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/15175074/pexels-photo-15175074.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="250px" max-width="250px" width="400px" align="right" alt="Emanuel Dev">
+<img src="https://images.pexels.com/photos/15175074/pexels-photo-15175074.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="250px" max-width="250px" width="250px" align="right" alt="Emanuel Dev">
 
 <p align="justify"> 
   Olá, sou Emanuel. Sou formado em <strong>Sistemas de Informação</strong>.<br>
