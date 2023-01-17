@@ -22,17 +22,17 @@ class Skills extends Desenvolvedor {
 
 <p align="left">
   <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=emanuel.angelo16@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=emanuel.angelo16@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/emanuelangelo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelangelo/" /></a>
-
-  <a href="https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelangelo/" /></a>
 
   <a href="https://www.facebook.com/profile.php?id=100080620125161" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080620125161"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080620125161"/></a>
 
   <a href="https://www.instagram.com/devemanuelangelo/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/devemanuelangelo/"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/devemanuelangelo/"/></a>
 </p>  
+
+<a href="https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0"/></a>
