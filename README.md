@@ -36,3 +36,4 @@ class Skills extends Desenvolvedor {
 
 <a href="https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5598985573745&text&type=phone_number&app_absent=0"/></a>
+<p><a href="https://meu-portfolio-react-js.vercel.app/" alt="Portfólio">Acesse meu site</a></p>
