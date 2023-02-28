@@ -1,9 +1,11 @@
 <img src="https://images.pexels.com/photos/15175074/pexels-photo-15175074.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="250px" max-width="250px" width="250px" align="right" alt="Emanuel Dev">
 
 <p align="justify"> 
-  Olá, sou Emanuel. Sou formado em <strong>Sistemas de Informação</strong>.<br>
-  Trabalho atualmente como Desenvolvedor Web FullStack, gosto bastante da área, estou sempre em aprendizado constante e aprimorando meus conhecimentos.<br>
-  Hoje estudo pela Alura aonde venho fazendo algumas formações para FrontEdn e BackEnd e assim me capacitando cada dia mais.
+  Meu nome é Emanuel Angelo e sou formado em Sistemas de Informação desde 2020.1. Desde então, tenho buscado constantemente adquirir novos conhecimentos e habilidades para me destacar no mercado de trabalho. Atualmente, estou estudando Java e Kotlin pela plataforma Alura, que oferece cursos de alta qualidade e me permite desenvolver minhas habilidades de programação.
+
+Além disso, tenho diversos certificados da Alura, como JavaScript para Front-End, Python, SQL e Django, que comprovam minhas habilidades nessas tecnologias. Estou sempre em busca de me aprimorar, aprender novas tecnologias e aperfeiçoar minhas habilidades existentes.
+
+Acredito que a aprendizagem contínua é fundamental para o sucesso na área de tecnologia, e estou sempre procurando novas oportunidades de desenvolvimento pessoal e profissional. Estou animado com as possibilidades que o futuro me reserva, e mal posso esperar para ver onde meus conhecimentos e habilidades me levarão.
 </p>
 
 ```js
