@@ -8,6 +8,10 @@ Além disso, tenho diversos certificados da Alura, como JavaScript para Front-En
 Acredito que a aprendizagem contínua é fundamental para o sucesso na área de tecnologia, e estou sempre procurando novas oportunidades de desenvolvimento pessoal e profissional. Estou animado com as possibilidades que o futuro me reserva, e mal posso esperar para ver onde meus conhecimentos e habilidades me levarão.
 </p>
 
+<p>
+Deletei todo meu repositorio - 2024 Recomeço!
+</p>
+
 ```js
 import Desenvolvedor from 'EmanuelAlmeida';
 
