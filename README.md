@@ -22,6 +22,12 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{emanuelangelo}/count.svg" /></p> 
+<br>
+</div>
+
 <p align="left">
   💌 Em caso de querer entrar em contato, segue as redes que utilizo: ⤵️
 </p>
