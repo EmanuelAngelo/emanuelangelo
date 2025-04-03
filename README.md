@@ -16,9 +16,9 @@ Deletei todo meu repositorio - 2024 Recomeço!
 import Desenvolvedor from 'EmanuelAlmeida';
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Go Lang', 'Python', 'Java', 'JavaScript', 'TypeScript'];
+  linguagens  = ['Python', 'JavaScript'];
   bancoDados  = ['SQL Serve', 'PostgreSQL'];
-  frameworks = ['Django', 'Vuejs', 'Reactjs', 'Protobuf'];
+  frameworks = ['Django', 'Vuejs'];
 }
 ```
 
