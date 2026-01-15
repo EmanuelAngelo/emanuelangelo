@@ -1,11 +1,21 @@
 <img src="https://images.pexels.com/photos/15175074/pexels-photo-15175074.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="250px" max-width="250px" width="250px" align="right" alt="Emanuel Dev">
 
 <p align="justify"> 
-  Meu nome é Emanuel Angelo e sou formado em Sistemas de Informação desde 2020.1. Desde então, tenho buscado constantemente adquirir novos conhecimentos e habilidades para me destacar no mercado de trabalho. Atualmente, estou estudando Java e Kotlin pela plataforma Alura, que oferece cursos de alta qualidade e me permite desenvolver minhas habilidades de programação.
+  Full Stack Developer with 3+ years of experience building scalable applications for the Finance, Education, and Healthcare sectors. I bridge the gap between complex backend logic and intuitive frontend interfaces, specializing in Python (Django) and Vue.js.
 
-Além disso, tenho diversos certificados da Alura, como JavaScript para Front-End, Python, SQL e Django, que comprovam minhas habilidades nessas tecnologias. Estou sempre em busca de me aprimorar, aprender novas tecnologias e aperfeiçoar minhas habilidades existentes.
+I excel at optimizing business processes, having successfully delivered ERP integrations (TOTVS RM) and real-time reporting systems that drive decision-making.
 
-Acredito que a aprendizagem contínua é fundamental para o sucesso na área de tecnologia, e estou sempre procurando novas oportunidades de desenvolvimento pessoal e profissional. Estou animado com as possibilidades que o futuro me reserva, e mal posso esperar para ver onde meus conhecimentos e habilidades me levarão.
+Core Expertise & Impact:
+
+Backend & Data: Robust API development with Django Rest Framework; SQL-based analytics and ETL pipelines for actionable insights.
+
+Frontend: Creating interactive dashboards and responsive UIs using Vue.js and Power BI.
+
+Process Optimization: Passionate about crafting clean, maintainable code that solves complex business problems through simple, efficient solutions.
+
+Tech Stack: Python, JavaScript, Django, Vue.js, SQL Server, PostgreSQL, Docker.
+
+Fluent in Portuguese and proficient in English (B2/C1), ready to collaborate with international teams. Open to remote opportunities worldwide.
 </p>
 
 <p>
