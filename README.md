@@ -5,22 +5,19 @@
 <h1 align="center">Emanuel Dev 🚀</h1>
 <h3 align="center">Full Stack Developer | Python & Django | Vue.js</h3>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{emanuelangelo}/count.svg" alt="Visitors" />
-</p>
-
 ---
 
 <p align="center">
-  <b>💡 Sobre mim</b>
+  <b>💡 About Me</b>
 </p>
 
 <p align="justify">
-  Desenvolvedor Full Stack com mais de 3 anos de experiência criando aplicações escaláveis para os setores Financeiro, Educacional e Saúde. Especialista em Python (Django) e Vue.js, conectando lógica backend robusta a interfaces frontend intuitivas.<br><br>
-  <b>Impacto:</b> Entreguei integrações ERP (TOTVS RM) e sistemas de relatórios em tempo real que impulsionam a tomada de decisão.<br>
-  <b>Processos:</b> Otimizo fluxos de trabalho com código limpo e eficiente, focado em resolver problemas de negócio.<br>
-  <b>Idiomas:</b> Português fluente | Inglês B2/C1<br>
-  <b>Disponível para trabalho remoto global 🌎</b>
+  Full Stack Developer with over 3 years of experience creating scalable applications for the Financial, Educational, and Healthcare sectors. Specialist in Python (Django) and Vue.js, connecting robust backend logic to intuitive frontend interfaces.<br><br>
+  <b>Impact:</b> Delivered ERP integrations (TOTVS RM) and real-time reporting systems that drive decision-making.<br>
+  <b>Processes:</b> I optimize workflows with clean and efficient code, focused on solving business problems.<br>
+  <b>Languages:</b> Native Portuguese | English B2/C1<br>
+  <b>Country:</b> Brazil<br>
+  <b>Available for global remote work 🌎</b>
 </p>
 
 ---
@@ -40,27 +37,25 @@
 
 ---
 
-### 🚀 Minhas Skills
+### 🚀 My Skills
 
 ```js
-import Desenvolvedor from 'EmanuelAlmeida';
+import Developer from 'EmanuelAlmeida';
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['Python', 'JavaScript'];
-  bancoDados  = ['SQL Server', 'PostgreSQL'];
-  frameworks  = ['Django', 'Vue.js'];
+class Skills extends Developer {
+  languages  = ['Python', 'JavaScript'];
+  databases  = ['SQL Server', 'PostgreSQL'];
+  frameworks = ['Django', 'Vue.js'];
 }
 ```
 
-
-
 ---
 
-<h2 align="center">💌 Vamos conversar?</h2>
+<h2 align="center">💌 Let's Connect!</h2>
 
 <p align="center" style="font-size: 16px;">
-Se você deseja trocar ideias, tirar dúvidas ou propor parcerias, fique à vontade para me chamar em qualquer rede abaixo!<br>
-<b>Estou sempre aberto a novas conexões e oportunidades.</b>
+If you want to exchange ideas, ask questions, or propose partnerships, feel free to reach out on any network below!<br>
+<b>I'm always open to new connections and opportunities.</b>
 </p>
 
 <div align="center">
