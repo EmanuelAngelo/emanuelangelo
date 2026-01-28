@@ -77,5 +77,5 @@ If you want to exchange ideas, ask questions, or propose partnerships, feel free
 </div>
 
 <p align="center">
-  <a href="https://emanuelangelo.com/" alt="Portfólio"><b>🌐 Acesse meu site pessoal</b></a>
+  <a href="https://emanuelangelo.com/" alt="Portfólio"><b>🌐 Visit my personal website.</b></a>
 </p>
