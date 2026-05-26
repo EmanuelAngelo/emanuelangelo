@@ -12,7 +12,7 @@
 </p>
 
 <p align="justify">
-  Full Stack Developer with over 3 years of experience creating scalable applications for the Financial, Educational, and Healthcare sectors. Specialist in Python (Django) and Vue.js, connecting robust backend logic to intuitive frontend interfaces.<br><br>
+  Full Stack Developer with over <!--EXPERIENCE-->3+<!--/EXPERIENCE--> years of experience creating scalable applications for the Financial, Educational, and Healthcare sectors. Specialist in Python (Django) and Vue.js, connecting robust backend logic to intuitive frontend interfaces.<br><br>
   <b>Impact:</b> Delivered ERP integrations (TOTVS RM) and real-time reporting systems that drive decision-making.<br>
   <b>Processes:</b> I optimize workflows with clean and efficient code, focused on solving business problems.<br>
   <b>Languages:</b> Native Portuguese | English B2/C1<br>
